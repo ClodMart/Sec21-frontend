@@ -1,0 +1,1 @@
+export const apiConfigFilePath = 'assets/apiConfig.json';
